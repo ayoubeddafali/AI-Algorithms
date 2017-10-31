@@ -1,0 +1,120 @@
+# depslib dependency file v1.0
+1490975204 source:/home/neo/C Workspace/Testing Things/Tree/arbre.cpp
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"arbre.h"
+	"liste.h"
+
+1490970308 /home/neo/C Workspace/Testing Things/Tree/arbre.h
+
+1384935224 /home/neo/C Workspace/Testing Things/Tree/liste.h
+
+1384935670 source:/home/neo/C Workspace/Testing Things/Tree/liste.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"liste.h"
+
+1490975161 source:/home/neo/C Workspace/Testing Things/Tree/mainarbre.cpp
+	<stdio.h>
+	<stdlib.h>
+	"arbre.h"
+
+1493287538 source:/home/neo/C Workspace/Testing Things/Graph/arbre.cpp
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"arbre.h"
+	"liste.h"
+
+1490970308 /home/neo/C Workspace/Testing Things/Graph/arbre.h
+
+1493289168 /home/neo/C Workspace/Testing Things/Graph/liste.h
+
+1493289179 source:/home/neo/C Workspace/Testing Things/Graph/liste.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"liste.h"
+
+1490975161 source:/home/neo/C Workspace/Testing Things/Graph/mainarbre.cpp
+	<stdio.h>
+	<stdlib.h>
+	"arbre.h"
+
+1495565716 source:/home/neo/C Workspace/Testing Things/Graph/graphemat.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"graphemat.h"
+	"liste.h"
+	<time.h>
+	<math.h>
+
+1495525438 /home/neo/C Workspace/Testing Things/Graph/graphemat.h
+	<limits.h>
+
+1490826140 source:/home/neo/C Workspace/Testing Things/Graph/liregraphe.cpp
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"graphemat.h"
+
+1495525566 source:/home/neo/C Workspace/Testing Things/Graph/maingraphemat.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"graphemat.h"
+	"arbre.h"
+	"liregraphe.h"
+	<time.h>
+
+1387916238 /home/neo/C Workspace/Testing Things/Graph/liregraphe.h
+
+1495898949 source:/home/neo/Bureau/AI-algorithms/arbre.cpp
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"arbre.h"
+	"liste.h"
+
+1495898949 /home/neo/Bureau/AI-algorithms/arbre.h
+
+1495898949 /home/neo/Bureau/AI-algorithms/liste.h
+
+1495898949 source:/home/neo/Bureau/AI-algorithms/graphemat.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"graphemat.h"
+	"liste.h"
+	<time.h>
+	<math.h>
+
+1495898949 /home/neo/Bureau/AI-algorithms/graphemat.h
+	<limits.h>
+
+1495898949 source:/home/neo/Bureau/AI-algorithms/liregraphe.cpp
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"graphemat.h"
+
+1495898949 source:/home/neo/Bureau/AI-algorithms/liste.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"liste.h"
+
+1495898949 source:/home/neo/Bureau/AI-algorithms/maingraphemat.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"graphemat.h"
+	"arbre.h"
+	"liregraphe.h"
+	<time.h>
+
+1495898949 /home/neo/Bureau/AI-algorithms/liregraphe.h
+
